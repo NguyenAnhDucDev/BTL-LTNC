@@ -1,4 +1,3 @@
-# BTL-LTNC
 # BunniesAndCarrots
 a 2-player 2D game created in SDL for Windows. 
 
