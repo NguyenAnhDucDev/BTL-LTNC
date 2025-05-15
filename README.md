@@ -40,7 +40,7 @@ You need to have Visual Studio installed.
 ---
 
 ## About 
- I made this game back in 2014 as a seminar project for a college course Object-Oriented Programming. I could have done a much simpler project for the seminar, but I wanted to make something fun and also learn how video games are made. A friend of mine drew all the textures.
+ I made this game back in 2023 as a seminar project for a college course Object-Oriented Programming. I could have done a much simpler project for the seminar, but I wanted to make something fun and also learn how video games are made. A friend of mine drew all the textures.
  
 ### How did I do it?
 I've mostly used <a href="http://lazyfoo.net/SDL_tutorials/">LazyFoo</a> SDL tutorials to understand how SDL library works. Later I found a helpful <a href="http://staniks.github.io/">Staniks</a> game tutorial where he implements a small coin game.
